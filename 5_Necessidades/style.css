@@ -1,0 +1,20 @@
+/* svg responsive*/
+body{
+  height: 0;
+  padding-top: 48%;
+  position: relative;
+}
+svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width:100%;
+  height:auto;
+}
+
+svg g.active text{
+  font-weight: bold;
+}
+svg text{
+	cursor: default;
+}
