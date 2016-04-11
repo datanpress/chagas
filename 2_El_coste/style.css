@@ -19,3 +19,6 @@ svg text.active,
 svg tspan.active{
   font-weight:700;
 }
+svg text{
+  cursor: default;
+}
