@@ -17,3 +17,6 @@ svg g.active path,
 svg g.active polygon{
   fill:#C00;
 }
+svg text{
+	cursor: default;
+}
