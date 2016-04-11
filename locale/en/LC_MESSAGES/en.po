@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2016-04-11 18:07+0200\n"
-"PO-Revision-Date: 2016-04-11 18:08+0200\n"
+"POT-Creation-Date: 2016-04-11 19:29+0200\n"
+"PO-Revision-Date: 2016-04-11 19:30+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -15,6 +15,7 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: 1_Las_cifras/main.js\n"
 "X-Poedit-SearchPath-1: 2_El_coste/main.js\n"
+"X-Poedit-SearchPath-2: 3_El_tratamiento/main.js\n"
 
 #: 1_Las_cifras/main.js:18
 msgid "Las cifras de la enfermedad del Chagas"
@@ -64,7 +65,7 @@ msgstr "Countries with endemic Chagas"
 msgid "Paises con Chagas no endémico"
 msgstr "Countries with non-endemic Chagas"
 
-#: 1_Las_cifras/main.js:36 2_El_coste/main.js:19
+#: 1_Las_cifras/main.js:36 2_El_coste/main.js:19 3_El_tratamiento/main.js:34
 msgid ""
 "Fuente: Coalición Global de la Enfermedad de Chagas: Rompiendo el Silencio, "
 "una oportunidad para los pacientes de Chagas."
@@ -95,3 +96,51 @@ msgstr "7,200 million USD"
 #: 2_El_coste/main.js:24
 msgid "Coste económico anual"
 msgstr "Economic cost per year"
+
+#: 3_El_tratamiento/main.js:18
+msgid "Eficacia del tratamiento antiparasitario"
+msgstr "Efficacy of the antiparasitic treatment"
+
+#: 3_El_tratamiento/main.js:19
+msgid "NEONATO"
+msgstr "NEONATE"
+
+#: 3_El_tratamiento/main.js:20
+msgid "JOVEN"
+msgstr "YOUNG PATIENT"
+
+#: 3_El_tratamiento/main.js:21
+msgid "ADULTO CON"
+msgstr "ADULT WITH"
+
+#: 3_El_tratamiento/main.js:22
+msgid "INFECCIÓN AGUDA"
+msgstr "ACUTE INFECTION"
+
+#: 3_El_tratamiento/main.js:23
+msgid "ADULTO CRÓNICO "
+msgstr "ADULT WITH EARLY"
+
+#: 3_El_tratamiento/main.js:24
+msgid "TEMPRANO"
+msgstr "CHRONIC INFECTION"
+
+#: 3_El_tratamiento/main.js:26
+msgid "ADULTO CRÓNICO"
+msgstr "ADULT WITH CHRONIC"
+
+#: 3_El_tratamiento/main.js:27
+msgid "CON ALTERACIONES"
+msgstr "INFECTION AND ESTABLISHED"
+
+#: 3_El_tratamiento/main.js:28
+msgid "CARDIACAS AVANZADAS"
+msgstr "HEART DISEASE"
+
+#: 3_El_tratamiento/main.js:30
+msgid "Urge desarrollar nuevos"
+msgstr ""
+
+#: 3_El_tratamiento/main.js:31
+msgid "tratamientos"
+msgstr ""
