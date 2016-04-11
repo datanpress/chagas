@@ -11,3 +11,20 @@ svg {
   width:100%;
   height:auto;
 }
+
+svg .active ellipse,
+svg ellipse.active{
+  stroke:#000;
+  stroke-width:.5;
+}
+
+svg polyline.active,
+svg rect.active{
+  opacity:1;
+}
+svg rect.active{
+  opacity:1;
+}
+svg tspan.active{
+  font-weight:700;
+}

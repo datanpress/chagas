@@ -35,6 +35,50 @@ d3.xml("1.svg", "image/svg+xml", function(error, xml) {
 
   d3.select('.source').text(iJS._("Fuente: Coalición Global de la Enfermedad de Chagas: Rompiendo el Silencio, una oportunidad para los pacientes de Chagas."));
 
+
+  d3.selectAll('.riesgo').on("mouseover", function() {
+    d3.selectAll('.riesgo').classed("active",true)
+  })
+  d3.selectAll('.riesgo').on("mouseout", function() {
+    d3.selectAll('.riesgo').classed("active",false)
+  })
+
+  d3.selectAll('.infectadas').on("mouseover", function() {
+    d3.selectAll('.infectadas').classed("active",true)
+  })
+  d3.selectAll('.infectadas').on("mouseout", function() {
+    d3.selectAll('.infectadas').classed("active",false)
+  })
+
+  d3.selectAll('.nosaben').on("mouseover", function() {
+    d3.selectAll('.nosaben').classed("active",true)
+  })
+  d3.selectAll('.nosaben').on("mouseout", function() {
+    d3.selectAll('.nosaben').classed("active",false)
+  })
+
+  d3.selectAll('.tratamiento').on("mouseover", function() {
+    d3.selectAll('.tratamiento').classed("active",true)
+  })
+  d3.selectAll('.tratamiento').on("mouseout", function() {
+    d3.selectAll('.tratamiento').classed("active",false)
+  })
+
+  d3.selectAll('.endemico').on("mouseover", function() {
+    d3.selectAll('.endemico').classed("active",true)
+  })
+  d3.selectAll('.endemico').on("mouseout", function() {
+    d3.selectAll('.endemico').classed("active",false)
+  })
+
+  d3.selectAll('.noendemico').on("mouseover", function() {
+    d3.selectAll('.noendemico').classed("active",true)
+  })
+  d3.selectAll('.noendemico').on("mouseout", function() {
+    d3.selectAll('.noendemico').classed("active",false)
+  })
+
+
   // d3.select('.legend.malaria').text(iJS._("Malaria"));
   // d3.select('.legend.tuberculosis').text(iJS._("Tuberculosis"));
   // d3.select('.legend.ebola').text(iJS._("Ébola"));
@@ -42,16 +86,5 @@ d3.xml("1.svg", "image/svg+xml", function(error, xml) {
   // d3.select('.country.sierra_leona').text(iJS._("Sierra Leona"));
   // d3.select('.country.liberia').text(iJS._("Liberia"));
 
-
-  d3.select('#rect1')
-  var r1= d3.select('#rect1').node().getBBox();
-
-  d3.select('svg').append("defs").append("clipPath")
-    .attr("id", "clip")
-    .append("rect")
-    .attr("width", r1.width)
-    .attr("height", r1.height);
-
-  // d3.select('#rect1').attr("clip-path", "url(#clip)")
 
 });
