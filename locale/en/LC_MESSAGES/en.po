@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-04-11 17:41+0200\n"
+"PO-Revision-Date: 2016-04-11 17:44+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ../../../1_Las_cifras\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: main.js\n"
+
+#: main.js:18
+msgid "Las cifras de la enfermedad del Chagas"
+msgstr "Chagas Disease in Numbers"
+
+#: main.js:19
+msgid "25.000.000"
+msgstr "25,000,000"
+
+#: main.js:20
+msgid "de personas en riesgo"
+msgstr "people at risk"
+
+#: main.js:22
+msgid "6.000.000"
+msgstr "6,000,000"
+
+#: main.js:23 main.js:30
+msgid "personas infectadas"
+msgstr "people infected"
+
+#: main.js:25
+msgid "más de 5.000.000"
+msgstr "More than 5,000,000"
+
+#: main.js:26
+msgid "de personas infectadas"
+msgstr "people infected"
+
+#: main.js:27
+msgid "no saben que tienen la enfermedad"
+msgstr "people do not know they have the disease"
+
+#: main.js:29
+msgid "menos de 100.000"
+msgstr "Less than 100,000"
+
+#: main.js:31
+msgid "reciben el tratamiento adecuado"
+msgstr "infected individuals receive the appropriate treatment"
+
+#: main.js:33
+msgid "Países con Chagas endémico"
+msgstr "Countries with endemic Chagas"
+
+#: main.js:34
+msgid "Paises con Chagas no endémico"
+msgstr "Countries with non-endemic Chagas"
+
+#: main.js:36
+msgid ""
+"Fuente: Coalición Global de la Enfermedad de Chagas: Rompiendo el Silencio, "
+"una oportunidad para los pacientes de Chagas."
+msgstr ""
+"Source: The Global Chagas Disease Coalition: Breaking the Silence, An "
+"Opportunity for Patients with Chagas Disease"
