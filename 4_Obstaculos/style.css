@@ -12,9 +12,8 @@ svg {
   height:auto;
 }
 
-svg .active path,
-svg .active circle,
-svg text.active,
-svg tspan.active{
-  stroke:#888;
+svg g.active line,
+svg g.active path,
+svg g.active polygon{
+  fill:#C00;
 }
