@@ -6,17 +6,17 @@
 <rect x="23.277" y="-3" fill="none" width="438.723" height="43.341"/>
 <text class="title" transform="matrix(1 0 0 1 23.5654 39)" fill="#1D1D1B" font-family="Roboto" font-weight="700" font-size="30">El coste del Chagas</text>
 <text class="source" transform="matrix(1 0 0 1 22.9893 343.5186)" fill="#1D1D1B" font-family="Roboto" font-style="italic" font-size="8">Fuente: Coalición Global de la Enfermedad de Chagas: Rompiendo el Silencio, una oportunidad para los pacientes de Chagas.</text>
-<text class="text1" transform="matrix(1 0 0 1 615.3125 258.1641)" font-family="Roboto" font-weight="700" font-size="14">162 millones de dólares</text>
-<g>
+<text class="text1 inversion" transform="matrix(1 0 0 1 615.3125 258.1641)" font-family="Roboto" font-weight="700" font-size="14">162 millones de dólares</text>
+<g class="inversion">
 	<rect x="559.014" y="242.157" fill="#008D36" width="52.5" height="21.001"/>
 	<circle fill="#95C11F" cx="585.264" cy="252.658" r="9.417"/>
 	<text transform="matrix(1 0 0 1 565.0635 257.1641)" font-family="Roboto" font-size="12">$ 162M</text>
 </g>
 <text transform="matrix(1 0 0 1 546.2598 299.5)">
-	<tspan class="text2" x="0" y="0" font-family="Roboto" font-size="16">inversión en I+D en 10 años </tspan>
-	<tspan class="text3" x="77.084" y="14.4" font-family="Roboto" font-size="12">(2003 a 2013)</tspan>
+	<tspan class="text2 inversion" x="0" y="0" font-family="Roboto" font-size="16">inversión en I+D en 10 años </tspan>
+	<tspan class="text3 inversion" x="77.084" y="14.4" font-family="Roboto" font-size="12">(2003 a 2013)</tspan>
 </text>
-<g>
+<g class="coste">
 	<g>
 		<g>
 			<g>
@@ -254,6 +254,6 @@
 		<text transform="matrix(1 0 0 1 147.2393 83.4722)" font-family="Roboto" font-size="12">$ 162M</text>
 	</g>
 </g>
-<text class="text4" transform="matrix(1 0 0 1 196.8018 84.4722)" font-family="Roboto" font-weight="700" font-size="14">7.200 millones de dólares</text>
-<text class="text5" transform="matrix(1 0 0 1 153.1631 299.5)" font-family="Roboto" font-size="16">Coste económico anual</text>
+<text class="text4 coste" transform="matrix(1 0 0 1 196.8018 84.4722)" font-family="Roboto" font-weight="700" font-size="14">7.200 millones de dólares</text>
+<text class="text5 coste" transform="matrix(1 0 0 1 153.1631 299.5)" font-family="Roboto" font-size="16">Coste económico anual</text>
 </svg>

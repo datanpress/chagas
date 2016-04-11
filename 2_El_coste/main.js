@@ -24,6 +24,21 @@ d3.xml("2.svg", "image/svg+xml", function(error, xml) {
   d3.select('.text5').text(iJS._("Coste económico anual"));
   d3.select('.text1').text(iJS._("162 millones de dólares"));
 
+
+  d3.selectAll('.coste').on("mouseover", function() {
+    d3.selectAll('.coste').classed("active",true)
+  })
+  d3.selectAll('.coste').on("mouseout", function() {
+    d3.selectAll('.coste').classed("active",false)
+  })
+
+  d3.selectAll('.inversion').on("mouseover", function() {
+    d3.selectAll('.inversion').classed("active",true)
+  })
+  d3.selectAll('.inversion').on("mouseout", function() {
+    d3.selectAll('.inversion').classed("active",false)
+  })
+
   // d3.select('.legend.malaria').text(iJS._("Malaria"));
   // d3.select('.legend.tuberculosis').text(iJS._("Tuberculosis"));
   // d3.select('.legend.ebola').text(iJS._("Ébola"));

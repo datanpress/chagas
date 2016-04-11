@@ -11,3 +11,11 @@ svg {
   width:100%;
   height:auto;
 }
+
+svg .active rect{
+  stroke:#000;
+}
+svg text.active,
+svg tspan.active{
+  font-weight:700;
+}
