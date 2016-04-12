@@ -2339,14 +2339,14 @@
 	<tspan class="tratamiento3 tratamiento" x="0" y="15" font-family="Roboto" font-weight="700" font-size="14">reciben el tratamiento adecuado </tspan>
 </text>
 <rect x="699.019" y="404.089" opacity="0.1" width="194.063" height="44.116"/>
-<text transform="matrix(1 0 0 1 732.2104 422.8984)">
+<text transform="matrix(1 0 0 1 727.2104 422.8984)">
 	<tspan class="legend1 endemico" x="0" y="0" font-family="Roboto" font-size="10">Países con Chagas endémico</tspan>
 	<tspan class="legend2 noendemico" x="0" y="15" font-family="Roboto" font-size="10">Paises con Chagas no endémico</tspan>
 </text>
-<rect x="716.292" y="411.474" fill="#FFFFFF" width="12.779" height="13.174"/>
-<rect class="endemico" x="716.603" y="411.474" opacity="0.7" fill="#00B0E9" stroke="#B3B3B3" stroke-width="0.869" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="12.779" height="13.174"/>
-<rect x="716.547" y="427.647" fill="#FFFFFF" width="12.779" height="13.174"/>
-<rect class="noendemico" x="716.858" y="427.647" opacity="0.7" fill="url(#Nueva_muestra_de_motivo_1)" stroke="#B3B3B3" stroke-width="0.869" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="12.779" height="13.174"/>
+<rect x="711.292" y="411.474" fill="#FFFFFF" width="12.779" height="13.174"/>
+<rect class="endemico" x="711.603" y="411.474" opacity="0.7" fill="#00B0E9" stroke="#B3B3B3" stroke-width="0.869" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="12.779" height="13.174"/>
+<rect x="711.547" y="427.647" fill="#FFFFFF" width="12.779" height="13.174"/>
+<rect class="noendemico" x="711.858" y="427.647" opacity="0.7" fill="url(#Nueva_muestra_de_motivo_1)" stroke="#B3B3B3" stroke-width="0.869" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="12.779" height="13.174"/>
 <g>
 
 		<line fill="url(#Nueva_muestra_de_motivo_1)" class="noendemico" stroke="#36A9E1" stroke-width="3" stroke-miterlimit="10" x1="306.323" y1="-74.207" x2="391.184" y2="-160.43"/>
