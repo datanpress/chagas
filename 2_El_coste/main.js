@@ -18,11 +18,17 @@ d3.xml("2.svg", "image/svg+xml", function(error, xml) {
   d3.select('.title').text(iJS._("El coste del Chagas"));
   d3.select('.source').text(iJS._("Fuente: Coalición Global de la Enfermedad de Chagas: Rompiendo el Silencio, una oportunidad para los pacientes de Chagas."));
   d3.select('.text1').text(iJS._("162 millones de dólares"));
-  d3.select('.text2').text(iJS._("inversión en I+D en 10 años"));
+  d3.select('.text2').text(iJS._("Inversión en I+D en 10 años"));
   d3.select('.text3').text(iJS._("(2003 a 2013)"));
   d3.select('.text4').text(iJS._("7.200 millones de dólares"));
   d3.select('.text5').text(iJS._("Coste económico anual"));
   d3.select('.text1').text(iJS._("162 millones de dólares"));
+
+  if (lang=='en'){
+    d3.select(d3.select('tspan.text2').node().parentNode).attr('transform','matrix(1 0 0 1 546.2598 299.5)')
+    // d3.select('.tratamiento2').attr('x',143.483)
+  }
+
 
 
   d3.selectAll('.coste').on("mouseover", function() {

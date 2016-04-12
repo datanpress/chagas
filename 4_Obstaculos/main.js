@@ -34,7 +34,7 @@ d3.xml("4.svg", "image/svg+xml", function(error, xml) {
   d3.select('#rtext5').text(iJS._("DONACIÓN DE ÓRGANOS"));
   d3.select('#rtext6').text(iJS._("SIN CRIBAR"));
   d3.select('#ltext1').text(iJS._("VINCHUCA"));
-  d3.select('#ltext2').text(iJS._("REISTENCIA A"));
+  d3.select('#ltext2').text(iJS._("RESISTENCIA A"));
   d3.select('#ltext3').text(iJS._("INSECTICIDAS"));
   d3.select('#fuente').text(iJS._("Fuente: Coalición Global de la Enfermedad de Chagas: Rompiendo el Silencio, una oportunidad para los pacientes de Chagas."));
 

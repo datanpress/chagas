@@ -12,7 +12,7 @@
 	<circle fill="#95C11F" cx="585.264" cy="252.658" r="9.417"/>
 	<text transform="matrix(1 0 0 1 565.0635 257.1641)" font-family="Roboto" font-size="12">$ 162M</text>
 </g>
-<text transform="matrix(1 0 0 1 546.2598 299.5)">
+<text transform="matrix(1 0 0 1 558 299.5)">
 	<tspan class="text2 inversion" x="0" y="0" font-family="Roboto" font-size="16">inversión en I+D en 10 años </tspan>
 	<tspan class="text3 inversion" x="77.084" y="14.4" font-family="Roboto" font-size="12">(2003 a 2013)</tspan>
 </text>

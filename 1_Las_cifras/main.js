@@ -15,7 +15,7 @@ d3.xml("1.svg", "image/svg+xml", function(error, xml) {
   if (error) throw error;
   document.body.appendChild(xml.documentElement);
   //translate
-  d3.select('.title').text(iJS._("Las cifras de la enfermedad del Chagas"));
+  d3.select('.title').text(iJS._("Las cifras de la enfermedad de Chagas"));
   d3.select('.riesgo1').text(iJS._("25.000.000"));
   d3.select('.riesgo2').text(iJS._("de personas en riesgo"));
 
@@ -27,7 +27,7 @@ d3.xml("1.svg", "image/svg+xml", function(error, xml) {
   d3.select('.nosaben3').text(iJS._("no saben que tienen la enfermedad"));
 
   d3.select('.tratamiento1').text(iJS._("menos de 100.000"));
-  d3.select('.tratamiento2').text(iJS._("personas infectadas"));
+  d3.select('.tratamiento2').text(iJS._("personas infectadas "));
   d3.select('.tratamiento3').text(iJS._("reciben el tratamiento adecuado"));
 
   d3.select('.legend1').text(iJS._("Países con Chagas endémico"));
@@ -35,7 +35,10 @@ d3.xml("1.svg", "image/svg+xml", function(error, xml) {
 
   d3.select('.source').text(iJS._("Fuente: Coalición Global de la Enfermedad de Chagas: Rompiendo el Silencio, una oportunidad para los pacientes de Chagas."));
 
-  if (lang=='en'){ d3.select('.nosaben2').attr('x',164.968)}
+  if (lang=='en'){
+    d3.select('.nosaben2').attr('x',164.968)
+    d3.select('.tratamiento2').attr('x',143.483)
+  }
 
 
   d3.selectAll('.riesgo').on("mouseover", function() {
