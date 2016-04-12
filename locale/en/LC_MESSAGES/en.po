@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-04-12 15:26+0200\n"
-"PO-Revision-Date: 2016-04-12 15:26+0200\n"
+"PO-Revision-Date: 2016-04-12 17:02+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: 1_Las_cifras/main.js:18
 msgid "Las cifras de la enfermedad de Chagas"
-msgstr ""
+msgstr "Chagas Disease in Numbers"
 
 #: 1_Las_cifras/main.js:19
 msgid "25.000.000"
@@ -46,7 +46,7 @@ msgstr "infected people"
 
 #: 1_Las_cifras/main.js:27
 msgid "no saben que tienen la enfermedad"
-msgstr "people do not know they have the disease"
+msgstr "do not know they have the disease"
 
 #: 1_Las_cifras/main.js:29
 msgid "menos de 100.000"
@@ -87,7 +87,7 @@ msgstr "162 million USD"
 
 #: 2_El_coste/main.js:21
 msgid "Inversión en I+D en 10 años"
-msgstr ""
+msgstr "R&D investment"
 
 #: 2_El_coste/main.js:22
 msgid "(2003 a 2013)"

@@ -25,7 +25,8 @@ d3.xml("2.svg", "image/svg+xml", function(error, xml) {
   d3.select('.text1').text(iJS._("162 millones de dólares"));
 
   if (lang=='en'){
-    d3.select(d3.select('tspan.text2').node().parentNode).attr('transform','matrix(1 0 0 1 546.2598 299.5)')
+    d3.select(d3.select('tspan.text2').node().parentNode).attr('transform','matrix(1 0 0 1 572 299.5)')
+    d3.select('tspan.text3').attr('x',27.084)
     // d3.select('.tratamiento2').attr('x',143.483)
   }
 
