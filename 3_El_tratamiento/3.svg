@@ -7,10 +7,11 @@
 <rect y="54.284" fill-rule="evenodd" clip-rule="evenodd" fill="#F59C00" width="502.272" height="348.692"/>
 <rect x="697.285" y="54.284" fill-rule="evenodd" clip-rule="evenodd" fill="#AF9959" width="195.716" height="348.692"/>
 <text class="title" transform="matrix(1 0 0 1 16.9546 37.4497)" font-family="Roboto" font-weight="700" font-size="30">Eficacia del tratamiento antiparasitario</text>
-<text transform="matrix(1 0 0 1 800 341.4688)" text-anchor="middle">
+<text transform="matrix(1 0 0 1 800 341.4688)" text-anchor="middle" textLength="500">
 	<tspan class="text7 alteraciones" x="0" y="0" font-family="Roboto" font-weight="700" font-size="18.0176">ADULTO CRÓNICO </tspan>
 	<tspan class="text8 alteraciones" x="0" y="15.897" font-family="Roboto" font-weight="700" font-size="18.0176">CON ALTERACIONES </tspan>
 	<tspan class="text9 alteraciones" x="0" y="31.796" font-family="Roboto" font-weight="700" font-size="18.0176" letter-spacing="-1">CARDIACAS AVANZADAS</tspan>
+	<tspan class="text9_2 alteraciones" x="0" y="47.6" font-family="Roboto" font-weight="700" font-size="18.0176" letter-spacing="-1"></tspan>
 </text>
 <rect x="75.583" y="-146.096" fill="none" width="716.047" height="100.495"/>
 <!-- <text transform="matrix(1 0 0 1 75.5825 -133.3154)">

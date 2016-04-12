@@ -4,14 +4,14 @@
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="893px" height="359.131px" viewBox="0 0 893 359.131" enable-background="new 0 0 893 359.131" xml:space="preserve">
 <rect x="-2.033" y="52.132" opacity="0.5" fill="#008EAB" enable-background="new    " width="446.191" height="306.999"/>
 <rect x="444.158" y="52.132" opacity="0.6" fill="#00B0E9" enable-background="new    " width="448.842" height="306.999"/>
-<text id="title" transform="matrix(1 0 0 1 16.9546 37.4495)" font-family="'Roboto-Bold'" font-size="30">Obstáculos para frenar la transmisión</text>
-<text id="centraltext" transform="matrix(1 0 0 1 441.8345 287.6907)" font-family="'Roboto-Regular'" font-size="14" text-anchor="middle">FALTA DE DIAGNÓSTICO</text>
-<text id="vectortext1" transform="matrix(1 0 0 1 193.0947 185.968)" fill="#008EAB" font-family="'Roboto-Regular'" font-size="14">Picadura</text>
-<text id="vectortext2" transform="matrix(1 0 0 1 170.6357 210.968)" fill="#008EAB" font-family="'Roboto-Regular'" font-size="14">Contaminación</text>
-<text id="vectortext3" transform="matrix(1 0 0 1 147.8755 225.968)" fill="#008EAB" font-family="'Roboto-Regular'" font-size="14">DE BEBIDAS O ALIMENTOS</text>
+<text id="title" transform="matrix(1 0 0 1 16.9546 37.4495)" font-family="Roboto" font-weight="700" font-size="30">Obstáculos para frenar la transmisión</text>
+<text id="centraltext" transform="matrix(1 0 0 1 441.8345 287.6907)" font-family="Roboto" font-size="14" text-anchor="middle">FALTA DE DIAGNÓSTICO</text>
+<text id="vectortext1" transform="matrix(1 0 0 1 193.0947 185.968)" fill="#008EAB" font-family="Roboto" font-size="14">Picadura</text>
+<text id="vectortext2" transform="matrix(1 0 0 1 170.6357 210.968)" fill="#008EAB" font-family="Roboto" font-size="14">Contaminación</text>
+<text id="vectortext3" transform="matrix(1 0 0 1 147.8755 225.968)" fill="#008EAB" font-family="Roboto" font-size="14">DE BEBIDAS O ALIMENTOS</text>
 
-<text id="wtitle1" transform="matrix(1 0 0 1 453.4473 75.0286)" font-family="'Roboto-Bold'" font-size="17" text-anchor="start">TRANSMISIÓN </text>
-<text id="wtitle2" transform="matrix(1 0 0 1 453.4473 90.0286)" font-family="'Roboto-Bold'" font-size="17" text-anchor="start">NO VECTORIAL </text>
+<text id="wtitle1" transform="matrix(1 0 0 1 453.4473 75.0286)" font-family="Roboto" font-weight="700" font-size="17" text-anchor="start">TRANSMISIÓN </text>
+<text id="wtitle2" transform="matrix(1 0 0 1 453.4473 90.0286)" font-family="Roboto" font-weight="700" font-size="17" text-anchor="start">NO VECTORIAL </text>
 
 
 <rect x="136.52" y="391.238" fill="none" width="562.667" height="105.666"/>
@@ -88,24 +88,24 @@
 		</g>
 	</g>
 </g>
-<text id="mcount1" transform="matrix(1 0 0 1 436.4492 330.6946)" font-family="'Roboto-Regular'" font-size="17" text-anchor="end">PAÍSES ENDEMICOS</text>
-<text id="mcount2" transform="matrix(1 0 0 1 453.4473 330.6946)" font-family="'Roboto-Regular'" font-size="17">PAÍSES ENDÉMICOS Y NO ENDÉMICOS</text>
+<text id="mcount1" transform="matrix(1 0 0 1 436.4492 330.6946)" font-family="Roboto" font-size="17" text-anchor="end">PAÍSES ENDEMICOS</text>
+<text id="mcount2" transform="matrix(1 0 0 1 453.4473 330.6946)" font-family="Roboto" font-size="17">PAÍSES ENDÉMICOS Y NO ENDÉMICOS</text>
 <rect x="746.217" y="85.571" fill="none" width="171.164" height="36"/>
-<text id="rtext1" transform="matrix(1 0 0 1 746.2168 94.5706)" font-family="'Roboto-Bold'" font-size="12">EMBARAZO </text>
-<text id="rtext2" transform="matrix(1 0 0 1 746.2168 108.9709)" font-family="'Roboto-Regular'" font-size="12">SIN TRATAMIENTO PREVIO</text>
+<text id="rtext1" transform="matrix(1 0 0 1 746.2168 94.5706)" font-family="Roboto" font-weight="700" font-size="12">EMBARAZO </text>
+<text id="rtext2" transform="matrix(1 0 0 1 746.2168 108.9709)" font-family="Roboto" font-size="11">SIN TRATAMIENTO PREVIO</text>
 <rect x="16.955" y="232.871" fill="none" width="117.905" height="41.94"/>
-<text id="ltext1" transform="matrix(1 0 0 1 16.9546 241.8704)" font-family="'Roboto-Bold'" font-size="12">VINCHUCA </text>
-<text id="ltext2" transform="matrix(1 0 0 1 16.9546 256.2708)" font-family="'Roboto-Regular'" font-size="12">REISTENCIA A</text>
-<text id="ltext3" transform="matrix(1 0 0 1 16.9546 270.6711)" font-family="'Roboto-Regular'" font-size="12">INSECTICIDAS</text>
+<text id="ltext1" transform="matrix(1 0 0 1 16.9546 241.8704)" font-family="Roboto" font-weight="700" font-size="12">VINCHUCA </text>
+<text id="ltext2" transform="matrix(1 0 0 1 16.9546 256.2708)" font-family="Roboto" font-size="12">REISTENCIA A</text>
+<text id="ltext3" transform="matrix(1 0 0 1 16.9546 270.6711)" font-family="Roboto" font-size="12">INSECTICIDAS</text>
 <rect x="746.217" y="173.496" fill="none" width="128" height="36"/>
-<text id="rtext3" transform="matrix(1 0 0 1 746.2168 182.4954)" font-family="'Roboto-Bold'" font-size="12">DONACIÓN DE SANGRE</text>
-<text id="rtext4" transform="matrix(1 0 0 1 746.2168 196.8958)" font-family="'Roboto-Regular'" font-size="12">SIN CRIBAR</text>
+<text id="rtext3" transform="matrix(1 0 0 1 746.2168 182.4954)" font-family="Roboto" font-weight="700" font-size="12">DONACIÓN DE SANGRE</text>
+<text id="rtext4" transform="matrix(1 0 0 1 746.2168 196.8958)" font-family="Roboto" font-size="11">SIN CRIBAR</text>
 <rect x="746.217" y="264.457" fill="none" width="138.666" height="35.999"/>
-<text id="rtext5" transform="matrix(1 0 0 1 746.2168 273.4563)" font-family="'Roboto-Bold'" font-size="12">DONACIÓN DE ÓRGANOS</text>
-<text id="rtext6" transform="matrix(1 0 0 1 746.2168 287.8557)" font-family="'Roboto-Regular'" font-size="12">SIN CRIBAR</text>
+<text id="rtext5" transform="matrix(1 0 0 1 746.2168 273.4563)" font-family="Roboto" font-weight="700" font-size="12">DONACIÓN DE ÓRGANOS</text>
+<text id="rtext6" transform="matrix(1 0 0 1 746.2168 287.8557)" font-family="Roboto" font-size="11">SIN CRIBAR</text>
 
-<text id="mtitle1" transform="matrix(1 0 0 1 438.6377 75.0286)" font-family="'Roboto-Bold'" font-size="17" text-anchor="end">TRANSMISIÓN </text>
-<text id="mtitle2" transform="matrix(1 0 0 1 438.6377 90.0286)" font-family="'Roboto-Bold'" font-size="17" text-anchor="end">POR VECTOR </text>
+<text id="mtitle1" transform="matrix(1 0 0 1 438.6377 75.0286)" font-family="Roboto" font-weight="700" font-size="17" text-anchor="end">TRANSMISIÓN </text>
+<text id="mtitle2" transform="matrix(1 0 0 1 438.6377 90.0286)" font-family="Roboto" font-weight="700" font-size="17" text-anchor="end">POR VECTOR </text>
 <path fill="#008EAB" d="M244.385,263.542c1.216-2.895,0.749-5.976,0.052-7.726c-0.182-0.459-0.618-0.768-1.111-0.788  c-1.877-0.081-4.946,0.497-7.28,2.608c-0.788-0.461-1.703-0.729-2.679-0.729c-0.148,0-0.294,0.009-0.44,0.021  c-0.127-0.808-0.33-1.526-0.559-2.102c-0.183-0.458-0.618-0.768-1.112-0.788c-2.271-0.104-6.283,0.767-8.63,4.143  c-1.102-2.34-3.041-3.953-4.542-4.756v-4.647c0-3.508-2.042-6.706-5.163-8.217v-2.935h0.065c0.346,0,0.627-0.281,0.627-0.627v-3.137  c0-0.347-0.282-0.627-0.628-0.627h-8.152c-0.346,0-0.627,0.28-0.627,0.627V237c0,0.346,0.281,0.627,0.627,0.627h0.146v2.935  c-3.121,1.511-5.162,4.708-5.162,8.217v25.847c0,0.69,0.561,1.254,1.254,1.254h7.82h7.938h24.706c0.591,0,1.101-0.412,1.226-0.988  l2.177-10.033c0.08-0.37-0.012-0.758-0.25-1.054C244.603,263.697,244.498,263.614,244.385,263.542z M231.722,259.949  c0.38-0.274,0.83-0.457,1.318-0.514c0.107-0.013,0.215-0.021,0.325-0.021c0.368,0,0.719,0.072,1.041,0.202  c0.395,0.157,0.746,0.401,1.03,0.709c0.353,0.382,0.602,0.859,0.701,1.393c0.031,0.168,0.05,0.342,0.05,0.519  c0,0.391-0.08,0.763-0.223,1.101h-0.353h-1.289h-1.262h-1.121h-1.172c-0.039-0.093-0.073-0.188-0.102-0.285  c-0.079-0.258-0.121-0.531-0.121-0.813C230.543,261.295,231.01,260.461,231.722,259.949z M223.474,262.631  c0.923-4.924,5.002-5.872,6.812-6.049c0.079,0.319,0.157,0.72,0.208,1.172c-1.476,0.949-2.459,2.603-2.459,4.482  c0,0.377,0.042,0.745,0.116,1.101h-1.921l2.61-4.273c0.181-0.296,0.087-0.683-0.208-0.861c-0.295-0.183-0.682-0.089-0.861,0.207  l-3.012,4.929h-1.234l-0.108-0.076C223.442,263.048,223.461,262.838,223.474,262.631z M216.83,256.724  c0.214-0.295,0.423-0.548,0.607-0.75c0.193,0.128,0.413,0.286,0.647,0.473c1.438,1.151,3.384,3.406,2.787,6.892h-1.922l-0.864-4.415  l-0.027-0.133c-0.066-0.342-0.396-0.563-0.736-0.495c-0.253,0.05-0.439,0.245-0.491,0.48c-0.018,0.082-0.021,0.168-0.004,0.255  l0.004,0.017l0.84,4.291h-0.84h-0.375h-0.773c-0.038-0.111-0.074-0.222-0.106-0.33c-0.062-0.213-0.116-0.422-0.157-0.628  c-0.131-0.671-0.149-1.311-0.089-1.907c0.044-0.438,0.129-0.857,0.246-1.251c0.066-0.222,0.139-0.437,0.221-0.642  C216.086,257.85,216.465,257.225,216.83,256.724z M206.397,263.382c-0.256,0.066-0.489,0.211-0.659,0.422  c-0.238,0.296-0.331,0.684-0.25,1.054l1.847,8.514h-5.011V248.78c0-2.761,1.746-5.257,4.342-6.213  c0.493-0.181,0.821-0.65,0.821-1.177v-3.762h2.924v3.762c0,0.526,0.328,0.996,0.821,1.178c2.597,0.955,4.342,3.451,4.342,6.212  v5.494c-0.624,0.685-1.256,1.56-1.762,2.584c-0.721-0.365-1.534-0.576-2.396-0.576c-2.939,0-5.33,2.392-5.33,5.329  C206.088,262.232,206.2,262.827,206.397,263.382z M213.064,263.337h-3.873c-0.372-0.479-0.596-1.076-0.596-1.728  c0-1.557,1.266-2.821,2.822-2.821c0.578,0,1.114,0.175,1.563,0.475C212.72,260.512,212.7,261.887,213.064,263.337z M241.925,266.913  l-1.401,6.457h-22.44h-1.254h-1.255h-5.672l-1.618-7.457l-0.014-0.067h5.798h0.573h0.935h1.113h0.141h1.254h0.113h1.094h1.632h1.689  h3.598h0.848h0.804h1.591h0.492h1.527h3.784h2.02h0.458h1.419h2.087h0.916L241.925,266.913z M241.687,263.337h-3.106  c0.075-0.354,0.115-0.724,0.115-1.101c0-1.048-0.309-2.023-0.833-2.85c1.541-1.325,3.417-1.711,4.495-1.815  C242.656,258.797,242.962,261.167,241.687,263.337z"/>
 <path id="organo" fill="#010202" d="M729.47,267.146c-1.085-0.453-5.294-1.194-8.462-1.712v-0.994l1.704-1.703c0.869-0.87,0.869-2.283,0-3.152  l-0.871-0.872c-0.842-0.84-2.313-0.84-3.153,0l-1.191,1.193l-0.229-0.459c-0.296-0.592-0.837-1.021-1.48-1.173  c-0.646-0.148-1.32-0.01-1.852,0.388l-0.423,0.316c-0.945,0.709-1.174,2.036-0.518,3.021l0.582,0.871v0.889  c-3.188-0.57-6.513-0.317-6.689-0.302c-6.304,0-9.66,11.604-9.66,19.979c0,3.356,0.62,5.603,1.895,6.869  c1.226,1.218,2.789,1.309,4.118,1.309c0.117,0,0.235,0,0.35-0.001l0.327-0.001c2.05,0,8.98-2.51,12.308-6.595l2.642,3.695  c0.43,0.604,1.12,0.931,1.82,0.931c0.392,0,0.785-0.103,1.141-0.314l1.159-0.694c0.53-0.319,0.908-0.853,1.034-1.457  c0.126-0.607-0.007-1.245-0.368-1.751l-2.326-3.258c6.057-1.501,11.574-5.939,11.574-9.138l0.005-0.335  C732.926,271.167,732.963,268.607,729.47,267.146z M714.941,262.234l-0.708-1.061c-0.22-0.328-0.144-0.771,0.173-1.006l0.422-0.318  c0.244-0.183,0.491-0.155,0.616-0.128c0.127,0.03,0.356,0.12,0.492,0.392l0.69,1.381c0.106,0.214,0.309,0.36,0.546,0.399  c0.234,0.036,0.477-0.04,0.646-0.208l1.922-1.922c0.289-0.29,0.76-0.29,1.05,0l0.872,0.871c0.289,0.29,0.289,0.761,0,1.051  l-1.922,1.922c-0.139,0.14-0.216,0.326-0.216,0.524v1.063c-1.063-0.167-1.854-0.288-2.119-0.325  c-0.11-0.017-0.218-0.004-0.315,0.025c-0.609-0.33-1.295-0.596-2.023-0.802v-1.446C715.065,262.499,715.02,262.356,714.941,262.234z   M722.442,286.292c0.12,0.171,0.164,0.378,0.123,0.584c-0.042,0.205-0.165,0.377-0.347,0.485l-1.158,0.694  c-0.326,0.198-0.761,0.109-0.986-0.205l-2.919-4.085c-0.016-0.021-0.035-0.03-0.052-0.048c0.191-0.338,0.361-0.682,0.497-1.038  c0.704-0.015,1.414-0.081,2.126-0.189L722.442,286.292z"/>
 <path id="sangre" fill="#010202" d="M714.612,164.629c-1.11,0-2.012,0.899-2.012,2.011s0.9,2.011,2.012,2.011c1.11,0,2.011-0.899,2.011-2.011  S715.723,164.629,714.612,164.629z M718.703,175.366h5.94v-1.67h-5.94V175.366z M724.775,165.527h-3.447  c-0.533-3.227-3.343-5.695-6.717-5.695c-3.375,0-6.185,2.469-6.717,5.695h-3.447c-2.998,0-5.438,2.439-5.438,5.438v25.968  c0,2.999,2.439,5.438,5.438,5.438h5.288v1.839h3.208v1.348c0,3.612,2.937,6.55,6.548,6.55v-3.337c-1.771,0-3.211-1.44-3.211-3.212  v-1.348h3.211v-1.839h5.287c2.998,0,5.438-2.439,5.438-5.438v-25.969C730.212,167.966,727.771,165.527,724.775,165.527z   M724.644,196.229h-5.94v-1.669h5.94V196.229L724.644,196.229z M724.644,192.056h-5.94v-1.668h5.94V192.056L724.644,192.056z   M724.644,187.883h-5.94v-1.668h5.94V187.883L724.644,187.883z M724.644,183.71h-5.94v-1.668h5.94V183.71L724.644,183.71z   M727.991,177.869h-26.757v-6.905c0-1.771,1.44-3.212,3.213-3.212h4.469c0.614,0,1.113-0.498,1.113-1.112  c0-2.527,2.055-4.583,4.581-4.583s4.583,2.057,4.583,4.583c0,0.614,0.498,1.112,1.111,1.112h4.471c1.771,0,3.213,1.441,3.214,3.212  v6.905H727.991z"/>
@@ -117,5 +117,5 @@
 		</g>
 	</g>
 </g>
-<text id="fuente" transform="matrix(1 0 0 1 16.9546 356.6946)" font-family="'Roboto-Italic'" font-size="8">Fuente: Coalición Global de la Enfermedad de Chagas: Rompiendo el Silencio, una oportunidad para los pacientes de Chagas.</text>
+<text id="fuente" transform="matrix(1 0 0 1 16.9546 356.6946)" font-family="Roboto" font-style="italic" font-size="8">Fuente: Coalición Global de la Enfermedad de Chagas: Rompiendo el Silencio, una oportunidad para los pacientes de Chagas.</text>
 </svg>

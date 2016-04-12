@@ -2,21 +2,21 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="893px" height="314.5px" viewBox="0 0 893 314.5" enable-background="new 0 0 893 314.5" xml:space="preserve">
-<text id="title" transform="matrix(1 0 0 1 23.5654 39)" fill="#1D1D1B" font-family="'Roboto-Black'" font-size="30">Necesidades en I+D</text>
+<text id="title" transform="matrix(1 0 0 1 23.5654 39)" fill="#1D1D1B" font-family="Roboto" font-weight="700" font-size="30">Necesidades en I+D</text>
 
 <g id="box1">
 	<rect y="56.912" opacity="0.4" fill="#D7AE1A" width="898" height="75.088"/>
-	<text transform="matrix(1 0 0 1 33.48 87.4785)"><tspan id="tbox1a" x="0" y="0" fill="#AF9959" font-family="'Roboto-Bold'" font-size="19">Mejores herramientas de diagnóstico: </tspan><tspan  id="tbox1b" x="0" y="20" fill="#AF9959" font-family="'Roboto-Bold'" font-size="17">más simples, más sensibles y más específicas</tspan></text>
+	<text transform="matrix(1 0 0 1 33.48 87.4785)"><tspan id="tbox1a" x="0" y="0" fill="#AF9959" font-family="Roboto" font-weight="700" font-size="19">Mejores herramientas de diagnóstico: </tspan><tspan  id="tbox1b" x="0" y="20" fill="#AF9959" font-family="Roboto" font-weight="700" font-size="17">más simples, más sensibles y más específicas</tspan></text>
 </g>
 
 <g id="box2">
 	<rect x="-5" y="140.412" opacity="0.4" fill="#008EAB" stroke="#008EAB" stroke-width="0.8931" stroke-miterlimit="10" width="898" height="75.088"/>
-	<text transform="matrix(1 0 0 1 841.1133 170)"><tspan id="tbox2a" x="0" y="0" fill="#00B0E9" font-family="'Roboto-Bold'" font-size="19" text-anchor="end">Nuevos medicamentos o mejores combinaciones:</tspan><tspan id="tbox2b" text-anchor="end" x="0" y="20.4" fill="#00B0E9" font-family="'Roboto-Bold'" font-size="17">para los pacientes crónicos adultos</tspan></text>
+	<text transform="matrix(1 0 0 1 841.1133 170)"><tspan id="tbox2a" x="0" y="0" fill="#00B0E9" font-family="Roboto" font-weight="700" font-size="19" text-anchor="end">Nuevos medicamentos o mejores combinaciones:</tspan><tspan id="tbox2b" text-anchor="end" x="0" y="20.4" fill="#00B0E9" font-family="Roboto" font-weight="700" font-size="17">para los pacientes crónicos adultos</tspan></text>
 </g>
 
 <g id="box3">
 	<rect y="225.956" opacity="0.4" fill="#D7AE1A" width="898" height="75.087"/>
-	<text transform="matrix(1 0 0 1 33.48 257.4785)"><tspan id="tbox3a" x="0" y="0" fill="#AF9959" font-family="'Roboto-Bold'" font-size="19">Desarrollo de biomarcadores: </tspan><tspan id="tbox3b" x="0" y="20" fill="#AF9959" font-family="'Roboto-Bold'" font-size="17">para saber si un paciente responde al tratamiento y/o se ha curado</tspan></text>
+	<text transform="matrix(1 0 0 1 33.48 257.4785)"><tspan id="tbox3a" x="0" y="0" fill="#AF9959" font-family="Roboto" font-weight="700" font-size="19">Desarrollo de biomarcadores: </tspan><tspan id="tbox3b" x="0" y="20" fill="#AF9959" font-family="Roboto" font-weight="700" font-size="17">para saber si un paciente responde al tratamiento y/o se ha curado</tspan></text>
 </g>
 
 <path d="M72.018,221.824"/>
@@ -32,5 +32,5 @@
 </g>
 <path fill-rule="evenodd" clip-rule="evenodd" fill="#00B0E9" d="M124.779,177.742c6.183,0,11.625,1.851,14.692,4.624  c-13.761,0.566-23.843,3.031-30.981,8.53c-0.673-1.043-1.037-2.167-1.037-3.339C107.453,182.151,115.235,177.742,124.779,177.742  L124.779,177.742z M131.015,161.804c0.255,1.349-0.39,2.704-1.105,3.952c-14.848-9.173-30.092-10.916-44.2-10.209  C93.447,145.485,127.456,143.135,131.015,161.804L131.015,161.804z M131.199,168.47c0,2.309-0.786,4.499-2.199,6.474  c-0.835-0.096-1.689-0.165-2.557-0.202c3.006-2.939,4.685-6.459,4.685-9.874C131.128,166.092,131.199,167.252,131.199,168.47  L131.199,168.47z M104.049,183.954c-12.018-0.919-21.395-7.52-21.395-15.485c0-1.216,0.071-2.378,0.071-3.601  c0,7.916,9.023,16.185,22.699,16.857C104.843,182.433,104.378,183.18,104.049,183.954L104.049,183.954z M127.884,168.311  c-4.15,4.006-11.994,6.725-20.959,6.725c-13.265,0-24.087-5.946-24.087-13.232c0-1.124,0.258-2.217,0.74-3.26  C101.878,157.691,116.464,161.398,127.884,168.311L127.884,168.311z M107.371,189.83c0,17.484,34.82,17.771,34.82,0.002  C143.713,210.896,105.299,209.82,107.371,189.83L107.371,189.83z M141.164,184.488c0.691,1.056,0.942,1.88,0.942,3.068  c0,5.406-7.784,9.814-17.327,9.814c-6.388,0-11.473-1.656-14.479-4.584C118.752,188.244,128.097,186.034,141.164,184.488  L141.164,184.488z"/>
 
-<text id="fuente" transform="matrix(1 0 0 1 23.2769 311.5)" fill="#1D1D1B" font-family="'Roboto-Italic'" font-size="8">Fuente: Coalición Global de la Enfermedad de Chagas: Rompiendo el Silencio, una oportunidad para los pacientes de Chagas.</text>
+<text id="fuente" transform="matrix(1 0 0 1 23.2769 311.5)" fill="#1D1D1B" font-family="Roboto" font-style="italic" font-size="8">Fuente: Coalición Global de la Enfermedad de Chagas: Rompiendo el Silencio, una oportunidad para los pacientes de Chagas.</text>
 </svg>

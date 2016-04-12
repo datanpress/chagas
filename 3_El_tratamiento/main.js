@@ -27,6 +27,8 @@ d3.xml("3.svg", "image/svg+xml", function(error, xml) {
   d3.select('.text8').text(iJS._("CON ALTERACIONES"));
   d3.select('.text9').text(iJS._("CARDIACAS AVANZADAS"));
 
+  if(lang=="en"){d3.select('.text9_2').text("DISEASE")}
+
   d3.select('.text10').text(iJS._("Urge desarrollar nuevos"));
   d3.select('.text11').text(iJS._("tratamientos"));
 

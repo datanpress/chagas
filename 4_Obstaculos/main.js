@@ -15,7 +15,7 @@ d3.xml("4.svg", "image/svg+xml", function(error, xml) {
   if (error) throw error;
   document.body.appendChild(xml.documentElement);
   //translate
-  
+
   d3.select('#title').text(iJS._("Obstáculos para frenar la transmisión"));
   d3.select('#centraltext').text(iJS._("FALTA DE DIAGNÓSTICO"));
   d3.select('#vectortext1').text(iJS._("Picadura"));
@@ -23,7 +23,7 @@ d3.xml("4.svg", "image/svg+xml", function(error, xml) {
   d3.select('#vectortext3').text(iJS._("DE BEBIDAS O ALIMENTOS"));
   d3.select('#wtitle1').text(iJS._("TRANSMISIÓN"));
   d3.select('#wtitle2').text(iJS._("NO VECTORIAL"));
-  d3.select('#mtitle1').text(iJS._("TRANSMISIÓN"));
+  d3.select('#mtitle1').text(iJS._("TRANSMISIÓN "));
   d3.select('#mtitle2').text(iJS._("POR VECTOR"));
   d3.select('#mcount1').text(iJS._("PAÍSES ENDEMICOS"));
   d3.select('#mcount2').text(iJS._("PAÍSES ENDÉMICOS Y NO ENDÉMICOS"));
@@ -88,7 +88,7 @@ d3.xml("4.svg", "image/svg+xml", function(error, xml) {
     d3.selectAll('#line_2').classed("active",false)
     d3.selectAll('#line_3').classed("active",false)
   })
-  
+
 
   d3.selectAll('#embarazo').on("mouseover", function() {
     d3.selectAll('#line_1').classed("active",true)
@@ -107,6 +107,6 @@ d3.xml("4.svg", "image/svg+xml", function(error, xml) {
   })
   d3.selectAll('#sangre').on("mouseout", function() {
     d3.selectAll('#line_3').classed("active",false)
-  })  
+  })
 
 });

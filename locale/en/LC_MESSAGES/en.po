@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2016-04-11 19:29+0200\n"
-"PO-Revision-Date: 2016-04-11 19:30+0200\n"
+"POT-Creation-Date: 2016-04-12 09:08+0200\n"
+"PO-Revision-Date: 2016-04-12 09:40+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -13,9 +13,8 @@ msgstr ""
 "X-Poedit-Basepath: ../../..\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-SearchPath-0: 1_Las_cifras/main.js\n"
-"X-Poedit-SearchPath-1: 2_El_coste/main.js\n"
-"X-Poedit-SearchPath-2: 3_El_tratamiento/main.js\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: locale\n"
 
 #: 1_Las_cifras/main.js:18
 msgid "Las cifras de la enfermedad del Chagas"
@@ -66,6 +65,7 @@ msgid "Paises con Chagas no endémico"
 msgstr "Countries with non-endemic Chagas"
 
 #: 1_Las_cifras/main.js:36 2_El_coste/main.js:19 3_El_tratamiento/main.js:34
+#: 4_Obstaculos/main.js:39 5_Necessidades/main.js:26
 msgid ""
 "Fuente: Coalición Global de la Enfermedad de Chagas: Rompiendo el Silencio, "
 "una oportunidad para los pacientes de Chagas."
@@ -131,16 +131,120 @@ msgstr "ADULT WITH CHRONIC"
 
 #: 3_El_tratamiento/main.js:27
 msgid "CON ALTERACIONES"
-msgstr "INFECTION AND ESTABLISHED"
+msgstr "INFECTION AND"
 
 #: 3_El_tratamiento/main.js:28
 msgid "CARDIACAS AVANZADAS"
-msgstr "HEART DISEASE"
+msgstr "ESTABLISHED HEART"
 
 #: 3_El_tratamiento/main.js:30
 msgid "Urge desarrollar nuevos"
-msgstr ""
+msgstr "Urgent to develop new"
 
 #: 3_El_tratamiento/main.js:31
 msgid "tratamientos"
-msgstr ""
+msgstr "treatments"
+
+#: 4_Obstaculos/main.js:19
+msgid "Obstáculos para frenar la transmisión"
+msgstr "Obstacles in stopping disease transmission"
+
+#: 4_Obstaculos/main.js:20
+msgid "FALTA DE DIAGNÓSTICO"
+msgstr "LACK OF DIAGNOSIS"
+
+#: 4_Obstaculos/main.js:21
+msgid "Picadura"
+msgstr "Bite"
+
+#: 4_Obstaculos/main.js:22
+msgid "Contaminación"
+msgstr "Contamination"
+
+#: 4_Obstaculos/main.js:23
+msgid "DE BEBIDAS O ALIMENTOS"
+msgstr "OF FOOD OR BEVERAGES"
+
+#: 4_Obstaculos/main.js:24
+msgid "TRANSMISIÓN"
+msgstr "NON-VECTOR"
+
+#: 4_Obstaculos/main.js:25
+msgid "NO VECTORIAL"
+msgstr "TRANSMISSION"
+
+#: 4_Obstaculos/main.js:26
+msgid "TRANSMISIÓN "
+msgstr "VECTOR"
+
+#: 4_Obstaculos/main.js:27
+msgid "POR VECTOR"
+msgstr "TRANSMISSION"
+
+#: 4_Obstaculos/main.js:28
+msgid "PAÍSES ENDEMICOS"
+msgstr "ENDEMIC COUNTRIES"
+
+#: 4_Obstaculos/main.js:29
+msgid "PAÍSES ENDÉMICOS Y NO ENDÉMICOS"
+msgstr "ENDEMIC AND NON-ENDEMIC COUNTRIES"
+
+#: 4_Obstaculos/main.js:30
+msgid "EMBARAZO"
+msgstr "PREGNANCY"
+
+#: 4_Obstaculos/main.js:31
+msgid "SIN TRATAMIENTO PREVIO"
+msgstr "NO PREVIOUS TREATMENT"
+
+#: 4_Obstaculos/main.js:32
+msgid "DONACIÓN DE SANGRE"
+msgstr "BLOOD BANK"
+
+#: 4_Obstaculos/main.js:33 4_Obstaculos/main.js:35
+msgid "SIN CRIBAR"
+msgstr "NO SCREENING"
+
+#: 4_Obstaculos/main.js:34
+msgid "DONACIÓN DE ÓRGANOS"
+msgstr "ORGAN DONATIONS"
+
+#: 4_Obstaculos/main.js:36
+msgid "VINCHUCA"
+msgstr "KISSING BUG"
+
+#: 4_Obstaculos/main.js:37
+msgid "REISTENCIA A"
+msgstr "INSECTICIDE"
+
+#: 4_Obstaculos/main.js:38
+msgid "INSECTICIDAS"
+msgstr "RESISTANCE"
+
+#: 5_Necessidades/main.js:19
+msgid "Necesidades en I+D"
+msgstr "R&D Needs"
+
+#: 5_Necessidades/main.js:20
+msgid "Mejores herramientas de diagnóstico:"
+msgstr "Better diagnostic tools:"
+
+#: 5_Necessidades/main.js:21
+msgid "más simples, más sensibles y más específicas"
+msgstr "More simple, more sensitive and more specific"
+
+#: 5_Necessidades/main.js:22
+msgid "Nuevos medicamentos o mejores combinaciones:"
+msgstr "New treatments or new drug combinations"
+
+#: 5_Necessidades/main.js:23
+msgid "para los pacientes crónicos adultos"
+msgstr "for chronic adult patients"
+
+#: 5_Necessidades/main.js:24
+msgid "Desarrollo de biomarcadores:"
+msgstr "Development of biomarkers:"
+
+#: 5_Necessidades/main.js:25
+msgid "para saber si un paciente responde al tratamiento y/o se ha curado"
+msgstr "to know whether a patient responds to treatment and/or has been cured"

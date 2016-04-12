@@ -12,8 +12,10 @@ svg {
   height:auto;
 }
 
-svg g.active text{
-  font-weight: bold;
+svg g.active text,
+svg g.active tspan{
+  /*font-weight: bold;*/
+  font-size:20px;
 }
 svg text{
 	cursor: default;
